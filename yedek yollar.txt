@@ -1,0 +1,8 @@
+################################################################
+##                                                            ##
+##               AC-58 Linux-Driver Setup                     ##
+##                                                            ##
+################################################################
+-- command: yay -S rtl88x2bu-dkms-git
+-- aur: https://aur.archlinux.org/packages/rtl88x2bu-dkms-git
+-- github: https://github.com/RinCat/RTL88x2BU-Linux-Driver
